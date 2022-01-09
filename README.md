@@ -1,4 +1,4 @@
-# Tableau-Projects
+# Power-BI-Projects
 Learnt Data Visualization and Data Analytics with Power BI by solving  Realistic Analytics Projects.
 
   <pre>
